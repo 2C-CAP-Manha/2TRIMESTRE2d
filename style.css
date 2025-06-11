@@ -12,5 +12,10 @@ footer{
   background-color: #9ab729;
   color: white;
   text-align: center;
-  padding: 10px;
+  padding: 10px;;
+}
+
+footer p{
+  text-align: center;
+  font-size: 0.6rem;
 }
